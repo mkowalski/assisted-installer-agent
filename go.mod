@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/jaypipes/ghw v0.7.0
 	github.com/jaypipes/pcidb v0.6.0
-	github.com/onsi/ginkgo v1.16.2
+	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.12.0
 	github.com/openshift/assisted-service v1.0.10-0.20210412070223-659b5dab9f67
 	github.com/openshift/baremetal-runtimecfg v0.0.0-20210210163937-34f98e0f48fd
