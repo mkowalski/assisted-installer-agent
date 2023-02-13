@@ -9,8 +9,8 @@ require (
 	github.com/go-openapi/swag v0.19.14
 	github.com/google/uuid v1.2.0
 	github.com/hashicorp/go-multierror v1.1.0
-	github.com/jaypipes/ghw v0.7.0
-	github.com/jaypipes/pcidb v0.6.0
+	github.com/jaypipes/ghw v0.10.0
+	github.com/jaypipes/pcidb v1.0.0
 	github.com/onsi/ginkgo v1.16.2
 	github.com/onsi/gomega v1.12.0
 	github.com/openshift/assisted-service v1.0.10-0.20210412070223-659b5dab9f67
@@ -23,7 +23,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.7.0
 	github.com/vishvananda/netlink v1.1.0
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
+	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
 	gopkg.in/yaml.v2 v2.4.0
 )
 
